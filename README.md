@@ -1,4 +1,4 @@
-# IOSTutorial
+# IOS-Tutorial
 My first repository on GitHub
 
 I love to eat :sushi: and :dancer: to bollywood music.

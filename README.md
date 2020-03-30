@@ -9,7 +9,7 @@ I love to eat :sushi: and :dancer: to bollywood music.
 The app is designed to change the color of the text "Hello" in the view controller to orange. Next, the background color of the enitre simulator changes to red. In order to undo the changes made, tap the screen. The final task is to change the message in the text feild. Thus, by clicking the command botton, 'change text', the message is updated in the view controller. This was created from watching the tutorial through the youtube link. 
 
 ### App Walk-though
-<img src="http://g.recordit.co/ECzx3nd2E9.gif" width=300><br>
+<img src="http://g.recordit.co/ECzx3nd2E9.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
